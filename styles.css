@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  color: purple;
+}
+
+.shape {
+  height: 200px;
+  width: 200px;
+  border: 2px solid green;
+}
+
+.circle {
+  border-radius: 50%;
+}
+
+.blue {
+  background: blue;
+}
